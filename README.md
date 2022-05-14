@@ -1,5 +1,5 @@
 - Oi, meu nome é @PedroSousaCoelho
-- Estudante de JavaScript;
+- Estudante de JavaScript e Python;
 - 18/GO BR.
 - Insta: pedrosousa.c
 
