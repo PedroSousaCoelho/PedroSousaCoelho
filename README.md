@@ -1,7 +1,5 @@
 - Oi, meu nome é @PedroSousaCoelho
-- Estudante de JavaScript e Python;
-- 18/GO BR.
-- Insta: pedrosousa.c
+- Estudante de JavaScript;
 
 <!---
 PedroSousaCoelho/PedroSousaCoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
