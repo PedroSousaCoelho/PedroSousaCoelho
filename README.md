@@ -1,4 +1,4 @@
-- Oi, meu nome é @PedroSousaCoelho
+- Oi, meu nome é Pedro e seja bem vindo ao meu perfil 😄
 
 <!---
 PedroSousaCoelho/PedroSousaCoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
